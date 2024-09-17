@@ -1,0 +1,1 @@
+This project investigates the use of technology in network intrusion detection, paying attention to the integration of various base-classifiers and meta-classifiers. Among a total of 13 base-classifiers with different algorithms, the three base-classifiers that provided the best accuracy were selected as meta-classifiers.
